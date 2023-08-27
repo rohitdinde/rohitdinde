@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rohitdinde
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning in MERN
+- 🌱 I’m currently learning in development
 - 💞️ I’m looking to collaborate on frontend development
 - 📫 How to reach me rohitdinde.scoe.comp@gmail.com
 
